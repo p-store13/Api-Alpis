@@ -35,7 +35,7 @@ servicesmtp = 'Gmail'//Ada gmail ada sendinblue ikut masing2 limit gmail 500 lim
 sendemail = process.env.sendemail 'hgindonesia3@gmail.com' //Email SMTP
 fromsendemail = process.env.fromsendemail 'hgindonesia3@gmail.com' // From Email SMTP *kalau takde custom email kena sama email dengan Email SMTP
 sendpwmail = process.env.sendpwmail 'ufbdqtihvtitilqa' // Password Email SMTP
-domain = 'alpis.eu.org'// domain website tanpa http or https
+domain = 'hendraxd.us.auth0.com' // domain website tanpa http or https
 
 //_______________________ ┏  Apikey  ┓ _______________________\\
 
